@@ -1,5 +1,3 @@
-
-
 import random
 player = input("Please input your name. ")
 computer_choice = random.randint(0,10)
